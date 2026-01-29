@@ -1,0 +1,3 @@
+Animations should be organized by folders for Type then by name. (subject to change)
+
+/[Type]/[name]

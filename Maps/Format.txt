@@ -1,0 +1,4 @@
+Maps should be organized by folders for Region then by zone name. (subject to change)
+For Custom maps Region will be "Custom"
+Duplicate maps should be affixed with authors name/identifier
+/[Region]/[zone name]
